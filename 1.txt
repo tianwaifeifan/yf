@@ -131,7 +131,7 @@ IHOT爱经典,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600006
 IHOT爱喜剧,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
 IHOT爱悬疑,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
 IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-🇨🇳 安徽高清,#genre#
+🇨🇳 安徽高清🎈,#genre#
 安徽卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001283/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -139,7 +139,7 @@ IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600003
 安徽影视,http://mmitv.top/test/ahtv.php?id=13
 安徽公共,http://mmitv.top/test/ahtv.php?id=16
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
-🇨🇳 高清央视,#genre#
+🇨🇳 高清央视🎈,#genre#
 CCTV1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
 CCTV1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1 综合,http://39.134.24.166/39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
@@ -535,7 +535,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 天津|滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
 天津|滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
 天津卫视,http://183.66.196.98:9901/tsfile/live/0135_1.m3u8
-🇨🇳 北京,#genre#
+🇨🇳 北京🎈,#genre#
 
 北京|北京卫视,http://49.235.110.121:9090/daili/bjtv.php?id=bjws
 北京|北京新闻,http://49.235.110.121:9090/daili/bjtv.php?id=bjxw
@@ -545,7 +545,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 北京|北京影视,http://49.235.110.121:9090/daili/bjtv.php?id=bjys
 北京|淘电影,http://49.235.110.121:9090/daili/电影.php?id=16
 北京|纪实科教,http://49.235.110.121:9090/daili/bjtv.php?id=jskj
-🇨🇳 热歌,#genre#
+🇨🇳 热歌🎈,#genre#
 
 故乡是潮汕,https://gitcode.net/kcwifi/S/-/raw/master/故乡是潮汕.mp4
 我爱潮汕小吃,https://gitcode.net/kcwifi/V/-/raw/master/我爱潮汕小吃.mp4
@@ -710,7 +710,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 阳仔演笑会2,https://vdse.bdstatic.com//b837548733e6bd32629f9134457ad811.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-14T12%3A24%3A48Z%2F-1%2Fhost%2F21b407cd58e7d2f39864128a9160659f1f4845e2cf4c01c6e2a3f30be1dbc557
 同桌的你,https://vd3.bdstatic.com/mda-kkfwqyn6sc4r5579/mda-kkfwqyn6sc4r5579.mp4?pd=19&vt=1
 小九老乐,https://vd3.bdstatic.com/mda-maqs355itqp221rx/v2-hknm/hd/mda-maqs355itqp221rx.mp4?pd=19&vt=1
-🇨🇳 凤凰高清,#genre#
+🇨🇳 凤凰高清🎈,#genre#
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰影视,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
