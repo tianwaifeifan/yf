@@ -16,3 +16,8 @@
 福康99        https://atomgit.com/yqw1234/tvbox
 乐享汇       https://atomgit.com/users/lxhfans/projects
 极狐         https://jihulab.com/search?search=TVBox&nav_source=navbar&search_code=true&repository_ref=main
+恒星仓库备用  https://atomgit.com/hengxing/hx/raw/master/hxzck.txt
+祥子应用仓    http://xzweb.top/cs/影视接口/001.json
+蓝色影视仓库  https://atomgit.com/xghvrf/Xvbjffc/raw/master/Xboxb.json
+星河多仓接口  http://52bsj.vip:81/api/v3/file/get/65430/zongcang.txt?sign=9ncAS6eZ86xmIZGf5FGGdNuBvztyubgFNamtypebe08%3D%3A0 
+综合大全      https://agit.ai/hu/hcr/raw/branch/master/99668.txt
