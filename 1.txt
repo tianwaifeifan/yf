@@ -323,6 +323,13 @@ BTV冬奥纪实,http://121.19.134.245:808/tsfile/live/1036_1.m3u8
 CETV2,http://121.19.134.245:808/tsfile/live/1038_1.m3u8
 CETV4,http://121.19.134.245:808/tsfile/live/1039_1.m3u8
 中国交通,http://121.19.134.245:808/tsfile/live/1040_1.m3u8
+🇨🇳 央视数字🎈,#genre#
+cccv4k,http://sx.liuyun.wang:88/live/ysp.php?id=cctv4k
+CCTV兵器科技,http://sx.liuyun.wang:88/live/ysp.php?id=bqkj
+CCTV第一剧场,http://sx.liuyun.wang:88/live/ysp.php?id=dyjc
+CCTV怀旧剧场,http://sx.liuyun.wang:88/live/ysp.php?id=hjjc
+CCTV风云剧场,http://sx.liuyun.wang:88/live/ysp.php?id=fyjc
+CCTV风云音乐,http://sx.liuyun.wang:88/live/ysp.php?id=fyyy
 
 🇨🇳 央视高清🎈,#genre#
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
