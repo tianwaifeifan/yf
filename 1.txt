@@ -987,37 +987,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 江西卫视,http://221.2.36.34:8888/newlive/live/hls/48/live.m3u8
 青海卫视,http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8
 
-🇨🇳 天津🎈,#genre#
 
-天津卫视,http://1629130041.iptv.netsxz.com:61800/tsfile/live/1059_1.m3u8
-天津新闻,http://1629130041.iptv.netsxz.com:61800/tsfile/live/1000_1.m3u8
-天津影视,http://1629130041.iptv.netsxz.com:61800/tsfile/live/1002_1.m3u8
-天津都市,http://1629130041.iptv.netsxz.com:61800/tsfile/live/1003_1.m3u8
-天津体育,http://1629130041.iptv.netsxz.com:61800/tsfile/live/1004_1.m3u8
-天津卫视,http://3889890682.iptv.netsxz.com:61800/tsfile/live/1001_1.m3u8
-天津新闻,http://3889890682.iptv.netsxz.com:61800/tsfile/live/1002_1.m3u8
-天津文艺,http://3889890682.iptv.netsxz.com:61800/tsfile/live/1003_1.m3u8
-天津影视,http://3889890682.iptv.netsxz.com:61800/tsfile/live/1004_1.m3u8
-天津都市,http://3889890682.iptv.netsxz.com:61800/tsfile/live/1005_1.m3u8
-天津体育,http://3889890682.iptv.netsxz.com:61800/tsfile/live/1006_1.m3u8
-天津科教,http://3889890682.iptv.netsxz.com:61800/tsfile/live/1007_1.m3u8
-天津新闻,http://3191703954.iptv.netsxz.com:61800/tsfile/live/1002_1.m3u8
-天津体育,http://3191703954.iptv.netsxz.com:61800/tsfile/live/1003_1.m3u8
-天津影视,http://3191703954.iptv.netsxz.com:61800/tsfile/live/1004_1.m3u8
-天津|滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
-天津|滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
-天津|滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
-天津卫视,http://183.66.196.98:9901/tsfile/live/0135_1.m3u8
-🇨🇳 北京🎈,#genre#
-
-北京|北京卫视,http://49.235.110.121:9090/daili/bjtv.php?id=bjws
-北京|北京新闻,http://49.235.110.121:9090/daili/bjtv.php?id=bjxw
-北京|北京文艺,http://49.235.110.121:9090/daili/bjtv.php?id=bjwy
-北京|北京生活,http://49.235.110.121:9090/daili/bjtv.php?id=bjsh
-北京|北京财经,http://49.235.110.121:9090/daili/bjtv.php?id=bjcj
-北京|北京影视,http://49.235.110.121:9090/daili/bjtv.php?id=bjys
-北京|淘电影,http://49.235.110.121:9090/daili/电影.php?id=16
-北京|纪实科教,http://49.235.110.121:9090/daili/bjtv.php?id=jskj
 🇨🇳 热歌🎈,#genre#
 凤凰传奇-华夏传说,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_40828850&response=res&format=mp4&type=convert_url
 凤凰传奇-奢香夫人,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_51674527&response=res&format=mp4&type=convert_url
