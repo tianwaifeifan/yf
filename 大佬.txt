@@ -27,3 +27,4 @@
 综合大全      https://agit.ai/hu/hcr/raw/branch/master/99668.txt
 直播检测      https://github.com/Supprise0901?tab=repositories
 
+仓库集合      https://agit.ai/2011820123/tvbox
