@@ -248,6 +248,91 @@ CCTV14 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv14
 CCTV15 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv15
 CCTV16 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv16
 CCTV17 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv17
+江苏卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=jsws
+广西卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=gxws
+四川卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=scws
+湖南卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=hunan
+浙江卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=zjws
+东方卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=dfws
+北京卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=bjws
+天津卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=tjws
+辽宁卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=lnws
+安徽卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=ahws
+黑龙江卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=hljws
+广东卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=gdws
+深圳卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=szws
+湖北卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=hubei
+吉林卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=jlws
+山东卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=sdws
+江西卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=jxws
+河南卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=hnws
+河北卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=hbws
+甘肃卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=gsws
+重庆卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=cqws
+东南卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=dnws
+云南卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=ynws
+贵州卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=gzws
+海南卫视 8M,http://nas.jdshipin.com:8801/bst.php?id=hainan
+康巴卫视,http://nas.jdshipin.com:8801/bst.php?id=kbws
+内蒙古卫视,http://nas.jdshipin.com:8801/bst.php?id=nmgws
+兵团卫视,http://nas.jdshipin.com:8801/bst.php?id=btws
+新疆卫视,http://nas.jdshipin.com:8801/bst.php?id=xjws
+西藏卫视,http://nas.jdshipin.com:8801/bst.php?id=xzws
+西藏藏语,http://nas.jdshipin.com:8801/bst.php?id=xzzy
+青海卫视,http://nas.jdshipin.com:8801/bst.php?id=qhws
+宁夏卫视,http://nas.jdshipin.com:8801/bst.php?id=nxws
+山西卫视,http://nas.jdshipin.com:8801/bst.php?id=shanxi
+陕西卫视,http://nas.jdshipin.com:8801/bst.php?id=sxws
+
+海峡卫视,http://nas.jdshipin.com:8801/bst.php?id=hxws
+BESTV台,http://nas.jdshipin.com:8801/bst.php?id=hyyy8m/8000000
+
+
+欢笑剧场4K,http://nas.jdshipin.com:8801/bst.php?id=hxjc4k
+欢笑剧场 8M,http://nas.jdshipin.com:8801/bst.php?id=hxjc
+劲爆体育 8M,http://nas.jdshipin.com:8801/bst.php?id=jbty
+快乐垂钓 8M,http://nas.jdshipin.com:8801/bst.php?id=klcd
+金鹰纪实 8M,http://nas.jdshipin.com:8801/bst.php?id=jyjs
+戏曲精选 8M,http://nas.jdshipin.com:8801/bst.php?id=xqjx
+浦东电视台,http://nas.jdshipin.com:8801/bst.php?id=pudong
+上海第一财经 8M,http://nas.jdshipin.com:8801/bst.php?id=dycj
+上视新闻 8M,http://nas.jdshipin.com:8801/bst.php?id=shxwzh
+上海都市 8M,http://nas.jdshipin.com:8801/bst.php?id=shds
+上海纪实 8M,http://nas.jdshipin.com:8801/bst.php?id=jsrw
+东方影视 8M,http://nas.jdshipin.com:8801/bst.php?id=dfys
+五星体育 8M,http://nas.jdshipin.com:8801/bst.php?id=wxty
+上视外语 8M,http://nas.jdshipin.com:8801/bst.php?id=ics
+七彩戏剧 8M,http://nas.jdshipin.com:8801/bst.php?id=qcxj
+上海教育 8M,http://nas.jdshipin.com:8801/bst.php?id=shjy
+全纪实 8M,http://nas.jdshipin.com:8801/bst.php?id=leyou
+生活时尚 8M,http://nas.jdshipin.com:8801/bst.php?id=shss
+新视觉 8M,http://nas.jdshipin.com:8801/bst.php?id=xsj
+游戏风云 8M,http://nas.jdshipin.com:8801/bst.php?id=yxfy
+热门综艺 8M,http://nas.jdshipin.com:8801/bst.php?id=rmzy
+超级体育 8M,http://nas.jdshipin.com:8801/bst.php?id=cjty
+健康养生 8M,http://nas.jdshipin.com:8801/bst.php?id=jkys
+百变课堂 8M,http://nas.jdshipin.com:8801/bst.php?id=bbkt
+看天下精选 8M,http://nas.jdshipin.com:8801/bst.php?id=ktxjx
+华语影院 8M,http://nas.jdshipin.com:8801/bst.php?id=hyyy
+电竞天堂 8M,http://nas.jdshipin.com:8801/bst.php?id=djtt
+青春动漫 8M,http://nas.jdshipin.com:8801/bst.php?id=qcdm
+宝宝动画 8M,http://nas.jdshipin.com:8801/bst.php?id=bbdh
+星光影院 8M,http://nas.jdshipin.com:8801/bst.php?id=xgyy
+谍战剧场 8M,http://nas.jdshipin.com:8801/bst.php?id=dzjc
+全球大片 8M,http://nas.jdshipin.com:8801/bst.php?id=qqdp
+热门剧场 8M,http://nas.jdshipin.com:8801/bst.php?id=rmjc
+卡酷少儿 8M,http://nas.jdshipin.com:8801/bst.php?id=kkse
+纪实科教 8M,http://nas.jdshipin.com:8801/bst.php?id=bjjskj
+茶频道 8M,http://nas.jdshipin.com:8801/bst.php?id=cpd
+足球高清 8M,http://nas.jdshipin.com:8801/bst.php?id=zqgq
+炫动卡通 8M,http://nas.jdshipin.com:8801/bst.php?id=hhxd
+东方财经 8M,http://nas.jdshipin.com:8801/bst.php?id=dfcj
+都市剧场 8M,http://nas.jdshipin.com:8801/bst.php?id=dsjc
+动漫秀场 8M,http://nas.jdshipin.com:8801/bst.php?id=dmxc
+法治天地 8M,http://nas.jdshipin.com:8801/bst.php?id=fztd
+金色学堂 8M,http://nas.jdshipin.com:8801/bst.php?id=jsxt
+魅力足球 8M,http://nas.jdshipin.com:8801/bst.php?id=mlzq
+
 
 
 CCTV1,http://182.107.188.104:8888/newlive/live/hls/2/live.m3u8
@@ -419,7 +504,9 @@ CCTV风云剧场,http://sx.liuyun.wang:88/live/ysp.php?id=fyjc
 CCTV风云音乐,http://sx.liuyun.wang:88/live/ysp.php?id=fyyy
 CCTV女性时尚,http://sx.liuyun.wang:88/live/ysp.php?id=nxss
 CCTV央视文化精品,http://sx.liuyun.wang:88/live/ysp.php?id=whjp
-
+🇨🇳 4k频道🎈,#genre#
+CCTV4K,http://nas.jdshipin.com:8801/bst.php?id=cctv4k
+欢笑剧场4K,http://nas.jdshipin.com:8801/bst.php?id=hxjc4k
 🇨🇳 央视高清🎈,#genre#
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
