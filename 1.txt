@@ -1,80 +1,6 @@
 🇨🇳 新年快乐🎈,#genre#
 拜新年,https://vd2.bdstatic.com/mda-pakefb1e2yqcsggz/720p/h264/1674296785821869312/mda-pakefb1e2yqcsggz.mp4?v_from_s=hkapp-haokan-suzhou&auth_key=1705372587-0-0-3c82cfaced0e8f8d625fd5c1ad77a7db&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=2187503779&vid=734852078564463363&klogid=2187503779&abtest=
 奢香夫人,https://vd2.bdstatic.com/mda-qa5f392amppcxx4v/sc/cae_h264/1704541400093117540/mda-qa5f392amppcxx4v.mp4?v_from_s=hkapp-haokan-suzhou&auth_key=1705371982-0-0-d8374be2501a54605e8c11113ccd0116&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=1582321068&vid=11134729558603719533&klogid=1582321068&abtest=
-🇨🇳央视超清🎈,#genre#
-CCTV1 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv1
-CCTV2 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv2
-CCTV3 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv3
-CCTV4 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv4
-CCTV5 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv5
-CCTV5+ 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv5p
-CCTV6 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv6
-CCTV7 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv7
-CCTV8 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv8
-CCTV9 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv9
-CCTV10 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv10
-CCTV11 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv11
-CCTV12 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv12
-CCTV13 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv13
-CCTV14 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv14
-CCTV15 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv15
-CCTV16 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv16
-CCTV17 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv17
-
-
-CCTV1,http://182.107.188.104:8888/newlive/live/hls/2/live.m3u8
-CCTV2,http://182.107.188.104:8888/newlive/live/hls/3/live.m3u8
-CCTV3,http://182.107.188.104:8888/newlive/live/hls/4/live.m3u8
-CCTV4,http://182.107.188.104:8888/newlive/live/hls/5/live.m3u8
-CCTV5,http://182.107.188.104:8888/newlive/live/hls/6/live.m3u8
-CCTV5+,http://182.107.188.104:8888/newlive/live/hls/7/live.m3u8
-CCTV6,http://182.107.188.104:8888/newlive/live/hls/8/live.m3u8
-CCTV7,http://182.107.188.104:8888/newlive/live/hls/9/live.m3u8
-CCTV8,http://182.107.188.104:8888/newlive/live/hls/10/live.m3u8
-CCTV9,http://182.107.188.104:8888/newlive/live/hls/11/live.m3u8
-CCTV11,http://182.107.188.104:8888/newlive/live/hls/12/live.m3u8
-CCTV12,http://182.107.188.104:8888/newlive/live/hls/13/live.m3u8
-CCTV13,http://182.107.188.104:8888/newlive/live/hls/14/live.m3u8
-CCTV14,http://182.107.188.104:8888/newlive/live/hls/15/live.m3u8
-CCTV15,http://182.107.188.104:8888/newlive/live/hls/16/live.m3u8
-CCTV15,http://182.107.188.104:8888/newlive/live/hls/17/live.m3u8
-
-
-🇨🇳央视备用🎈,#genre#
-CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-CCTV2,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-CCTV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV4,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-CCTV5,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV5+,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-CCTV6,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225778/1.m3u8
-CCTV8,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-CCTV9,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-CCTV13,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-CCTV14,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
-CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
-
-
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-CCTV3,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV6,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-
 
 🇨🇳 秒播央视🎈,#genre#
 
@@ -303,6 +229,81 @@ CCTV-13 新闻,http://1.180.245.195:9901/tsfile/live/0013_1.m3u8?key=txiptv&play
 CCTV-14 少儿,http://1.180.245.195:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15 音乐,http://1.180.245.195:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17 农业农村,http://1.180.245.195:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+🇨🇳央视超清🎈,#genre#
+CCTV1 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv1
+CCTV2 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv2
+CCTV3 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv3
+CCTV4 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv4
+CCTV5 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv5
+CCTV5+ 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv5p
+CCTV6 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv6
+CCTV7 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv7
+CCTV8 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv8
+CCTV9 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv9
+CCTV10 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv10
+CCTV11 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv11
+CCTV12 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv12
+CCTV13 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv13
+CCTV14 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv14
+CCTV15 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv15
+CCTV16 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv16
+CCTV17 8M,http://nas.jdshipin.com:8801/bst.php?id=cctv17
+
+
+CCTV1,http://182.107.188.104:8888/newlive/live/hls/2/live.m3u8
+CCTV2,http://182.107.188.104:8888/newlive/live/hls/3/live.m3u8
+CCTV3,http://182.107.188.104:8888/newlive/live/hls/4/live.m3u8
+CCTV4,http://182.107.188.104:8888/newlive/live/hls/5/live.m3u8
+CCTV5,http://182.107.188.104:8888/newlive/live/hls/6/live.m3u8
+CCTV5+,http://182.107.188.104:8888/newlive/live/hls/7/live.m3u8
+CCTV6,http://182.107.188.104:8888/newlive/live/hls/8/live.m3u8
+CCTV7,http://182.107.188.104:8888/newlive/live/hls/9/live.m3u8
+CCTV8,http://182.107.188.104:8888/newlive/live/hls/10/live.m3u8
+CCTV9,http://182.107.188.104:8888/newlive/live/hls/11/live.m3u8
+CCTV11,http://182.107.188.104:8888/newlive/live/hls/12/live.m3u8
+CCTV12,http://182.107.188.104:8888/newlive/live/hls/13/live.m3u8
+CCTV13,http://182.107.188.104:8888/newlive/live/hls/14/live.m3u8
+CCTV14,http://182.107.188.104:8888/newlive/live/hls/15/live.m3u8
+CCTV15,http://182.107.188.104:8888/newlive/live/hls/16/live.m3u8
+CCTV15,http://182.107.188.104:8888/newlive/live/hls/17/live.m3u8
+
+
+🇨🇳央视备用🎈,#genre#
+CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+CCTV2,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+CCTV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+CCTV4,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
+CCTV5,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+CCTV5+,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV6,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
+CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225778/1.m3u8
+CCTV8,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+CCTV9,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+CCTV13,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+CCTV14,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
+CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
+
+
+CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+CCTV3,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV6,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+
+
 🇨🇳 秒播卫视🎈,#genre#
 
 河北卫视,http://121.29.191.187:8000/hls/16/index.m3u8
