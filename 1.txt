@@ -507,6 +507,7 @@ CCTV央视文化精品,http://sx.liuyun.wang:88/live/ysp.php?id=whjp
 🇨🇳 4k频道🎈,#genre#
 CCTV4K,http://nas.jdshipin.com:8801/bst.php?id=cctv4k
 欢笑剧场4K,http://nas.jdshipin.com:8801/bst.php?id=hxjc4k
+精彩影视,http://117.190.144.101:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 🇨🇳 央视高清🎈,#genre#
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
