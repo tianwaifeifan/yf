@@ -15,24 +15,7 @@
 安徽影视频道,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
 
 🎈央视超清🎈,#genre#
-CCTV1,http://111.230.30.193/php/lyd.php?id=6559
-CCTV2,http://111.230.30.193/php/lyd.php?id=6540
-CCTV3,http://111.230.30.193/php/lyd.php?id=6021
-CCTV4,http://111.230.30.193/php/lyd.php?id=6428
-CCTV5,http://111.230.30.193/php/lyd.php?id=6469
-CCTV5+,http://111.230.30.193/php/lyd.php?id=5603
-CCTV6,http://111.230.30.193/php/lyd.php?id=6010
-CCTV7,http://111.230.30.193/php/lyd.php?id=5733
-CCTV8,http://111.230.30.193/php/lyd.php?id=6008
-CCTV9,http://111.230.30.193/php/lyd.php?id=5734
-CCTV10,http://111.230.30.193/php/lyd.php?id=6473
-CCTV11,http://111.230.30.193/php/lyd.php?id=6565
-CCTV12,http://111.230.30.193/php/lyd.php?id=6568
-CCTV13,http://111.230.30.193/php/lyd.php?id=6571
-CCTV14,http://111.230.30.193/php/lyd.php?id=6591
-CCTV15,http://111.230.30.193/php/lyd.php?id=6476
-CCTV16,http://111.230.30.193/php/lyd.php?id=6100
-CCTV17,http://111.230.30.193/php/lyd.php?id=5765
+
 
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
